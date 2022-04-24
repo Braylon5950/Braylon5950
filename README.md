@@ -9,8 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ##Stats
-![]
-(https://github.com/Braylon5950/Braylon5950/raw/output/github-contribution-grid-snake.svg)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Braylon5950?label=Sponsor&logo=GitHub%20Sponsors&style=flat-square)](https://github.com/sponsors/Braylon5950)
 
 ## Contact
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/889005501701029919)
